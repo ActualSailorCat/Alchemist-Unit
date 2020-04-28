@@ -9,7 +9,7 @@
 		<Text>Alchemist</Text>
 	</Row>
 	<Row Tag="LOC_UNIT_SAILOR_ALCHEMIST_DESCRIPTION" Language="en_US">
-		<Text>Resources in adjacent tiles have their yield bonuses doubled.[NEWLINE][NEWLINE]Cannot be trained. Receive one free Alchemist with each Alchemist's Atelier building.[NEWLINE][NEWLINE]Example Usage: The [ICON_Resource_Furs] Furs resource grants +1 [ICON_Food] Food and +1 [ICON_Gold] Gold to its tile. Having an Alchemist on or adjacent to the tile would increase this bonus to +2 [ICON_Food] Food and +2 [ICON_Gold] Gold.</Text>
+		<Text>Resources in adjacent tiles have their yield bonuses doubled.</Text>
 	</Row>
 	<Row Tag="LOC_ABILITY_SAILOR_ALCHEMIST_RESOURCE_FOOD_DESCRIPTION" Language="en_US">
 		<Text>Resources in adjacent tiles have their yield bonuses doubled.</Text>

@@ -3,7 +3,7 @@
   <Properties>
     <Name>Alchemist Unit</Name>
     <Description>Adds the Alchemist unit and Alchemist's Atelier building to the game.[NEWLINE][NEWLINE]ALCHEMIST: Adjacent units heal an extra 5HP per turn. Resources in adjacent tiles have their yield bonuses doubled. Cannot be trained. Receive one free Alchemist with each Alchemist's Atelier building.[NEWLINE][NEWLINE]ALCHEMIST'S ATELIER: Grants a free Alchemist upon completion. +10% Production towards projects in its city.</Description>
-    <Created>1588098890</Created>
+    <Created>1588103100</Created>
     <Teaser>Adds the Alchemist unit and Alchemist's Atelier building to the game.</Teaser>
     <Authors>SailorCat</Authors>
     <SpecialThanks>SeelingCat</SpecialThanks>
@@ -18,7 +18,6 @@
     <UpdateDatabase id="db">
       <File>Core/Unit.sql</File>
       <File>Core/Building.sql</File>
-      <File>Core/Boosts.sql</File>
     </UpdateDatabase>
     <UpdateArt id="art">
       <File>Alchemist Unit.dep</File>
@@ -33,6 +32,12 @@
     <UpdateDatabase id="XP2">
       <Criteria>XP2</Criteria>
       <File>Core/XP2.sql</File>
+    </UpdateDatabase>
+    <UpdateDatabase id="Boost">
+      <Properties>
+        <LoadOrder>111</LoadOrder>
+      </Properties>
+      <File>Core/Boosts.sql</File>
     </UpdateDatabase>
   </InGameActions>
   <Files>
