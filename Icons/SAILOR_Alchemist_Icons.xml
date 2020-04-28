@@ -1,0 +1,31 @@
+<GameInfo>
+	<IconTextureAtlases>
+		<!-- Alchemist Unit -->
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_22.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_32.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_38.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_50.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_80.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_256.dds"/>
+
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_38.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_50.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_70.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_95.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_200.dds"/>
+		<Row Name="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAILOR_ALCHEMIST_PORTRAIT_256.dds"/>
+		
+		<!-- Alchemist Shop Building-->
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_128.dds"/>
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_32.dds"/>
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_38.dds"/>
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_50.dds"/>
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_80.dds"/>
+		<Row Name="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP_256.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_UNIT_SAILOR_ALCHEMIST"			 Atlas="ICON_ATLAS_SAILOR_ALCHEMIST" Index="0"/>
+		<Row Name="ICON_UNIT_SAILOR_ALCHEMIST_PORTRAIT"	 Atlas="ICON_ATLAS_SAILOR_ALCHEMIST_PORTRAIT" Index="0"/>
+		<Row Name="ICON_BUILDING_SAILOR_ALCHEMIST_SHOP"	 Atlas="ICON_ATLAS_BUILDING_SAILOR_ALCHEMIST_SHOP" Index="0"/>
+	</IconDefinitions>
+</GameInfo>
